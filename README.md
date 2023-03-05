@@ -1,0 +1,2 @@
+# akari_hardware
+AKARIのハードウェア
