@@ -11,10 +11,10 @@
 | 9 | M5STACK-U001-C | M5 ENV IV Sensor|1| https://www.marutsu.co.jp/pc/i/2764443/ |
 | 10 | M5STACK-LIGHT-UNIT | M5 Light Sensor|1| https://www.marutsu.co.jp/pc/i/1526328/ |
 | 11 | - | JST Jumper 4 Wire Assembly |1| https://www.marutsu.co.jp/pc/i/579017/ |
-| 12 | 22234 | DC Jack |1| https://www.marutsu.co.jp/pc/i/12480040/ |
-| 13 | PRT-08535 | 2×5(10P) IDC cable|1| https://www.marutsu.co.jp/pc/i/578862/ |
+| 12 | - | DC Jack |1| https://www.marutsu.co.jp/pc/i/12480040/ |
+| 13 | PRT-08535 | 2×5(10P) IDC cable|1| https://www.marutsu.co.jp/pc/i/25641653/ |
 | 14 | - | USB Type-C L 0.3m|1| https://www.amazon.co.jp/dp/B097PJLG39 |
-| 15 | - | Tapping screw M2.5-6|6| https://www.marutsu.co.jp/pc/i/2566463/ |
-| 16 | - | 30X30X10 DC fan|1| https://www.marutsu.co.jp/pc/i/34901285/ |
+| 15 | - | Tapping screw M2.5-6|6| https://www.marutsu.co.jp/pc/i/2566507/ |
+| 16 | - | 30X30X10 DC fan|1| https://www.marutsu.co.jp/pc/i/34462743/ |
 | 17 | - | Heatsink (Raspberry pi)|1| https://www.marutsu.co.jp/pc/i/33411499/ |
 | 18 | - | AC Adapter(5V/5A) |1| https://www.marutsu.co.jp/pc/i/2584780/ |
