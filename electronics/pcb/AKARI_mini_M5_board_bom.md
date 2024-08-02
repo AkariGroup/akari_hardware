@@ -1,7 +1,7 @@
 | Ref | Parts | Link |
 | ---- | ---- | ---- |
 | R1 | R0805 10k | https://www.marutsu.co.jp/pc/i/2720378/ |
-| R2 | R0805 1k | https://www.marutsu.co.jp/pc/i/2720377/ |
+| R2 | R0805 1k | https://www.marutsu.co.jp/pc/i/856914/ |
 | R3 | R0805 1k | |
 | IC1 | 74HC126D | https://www.marutsu.co.jp/pc/i/26979466/ |
 | IC2 | SN74AHC1G04DBVR | https://www.marutsu.co.jp/pc/i/15305173/ |
