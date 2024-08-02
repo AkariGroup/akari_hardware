@@ -18,3 +18,5 @@
 | 16 | - | 30X30X10 DC fan|1| https://www.marutsu.co.jp/pc/i/34462743/ |
 | 17 | - | Heatsink (Raspberry pi)|1| https://www.marutsu.co.jp/pc/i/33411499/ |
 | 18 | - | AC Adapter(5V/6.2A) |1| https://www.marutsu.co.jp/pc/i/2775202/ |
+| 19 | - | microSD(128GB) |1|  | www.amazon.co.jp/dp/B0CH2X5LBX |
+| 20 | - | microSD(8GB) |1| https://www.amazon.co.jp/dp/B00VQOEWYO |
