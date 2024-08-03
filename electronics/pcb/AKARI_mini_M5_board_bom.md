@@ -12,4 +12,4 @@
 | J5 | PH2.0-4A (Grove) | |
 | J6 | 22-03-5035 | https://www.marutsu.co.jp/pc/i/33213647/ |
 | J7 | Box Header 2x5P | https://www.marutsu.co.jp/pc/i/10620/ |
-| J8 | PIN Header 1x2 | https://www.marutsu.co.jp/pc/i/2231521/ |
+| J8 | PIN Header 2x1 | https://www.marutsu.co.jp/pc/i/590531/ |
