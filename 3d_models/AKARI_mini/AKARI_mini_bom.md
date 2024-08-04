@@ -12,9 +12,9 @@
 | 10 | M5STACK-LIGHT-UNIT | M5 Light Sensor|1| https://www.marutsu.co.jp/pc/i/1526328/ |
 | 11 | OAK-D-LITE |AI camera |1| https://www.marutsu.co.jp/pc/i/2235787/ |
 | 12 | - | Active cooler (Raspberry pi)|1| https://www.marutsu.co.jp/pc/i/2782705/ |
-| 13 | - | Tapping screw M2.5-6|6| https://www.marutsu.co.jp/pc/i/2566507/ |
-| 14 | - | AC Adapter(5V/6.2A) |1| https://www.marutsu.co.jp/pc/i/2775202/ |
-| 15 | PRT-08535 | 2×5(10P) IDC cable|1| https://akizukidenshi.com/catalog/g/g103796/ |
+| 13 | - | AC Adapter(5V/6.2A) |1| https://www.marutsu.co.jp/pc/i/2775202/ |
+| 14 | PRT-08535 | 2×5(10P) IDC cable|1| https://akizukidenshi.com/catalog/g/g103796/ |
+| 15 | - | Tapping screw M2.5-6|6| https://www.amazon.co.jp/dp/B076ZF94HR |
 | 16 | - | USB Type-C L 0.3m|1| https://www.amazon.co.jp/dp/B097PJLG39 |
 | 17 | - | microSD(128GB) |1|  | https://www.amazon.co.jp/dp/B0CH2X5LBX |
 | 18 | - | microSD(8GB) |1| https://www.amazon.co.jp/dp/B00VQOEWYO |
