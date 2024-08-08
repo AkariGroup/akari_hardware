@@ -1,9 +1,9 @@
 | # | Parts | Item | Qty | Link |
 | ---- | ---- | ---- | ---- | ---- |
-| 1 | AKARI_mini_Head |3D print parts|1| |
-| 2 | AKARI_mini_Body |3D print parts|1| |
-| 3 | AKARI_mini_Cover |3D print parts|1| |
-| 4 | AKARI_mini_Base |3D print parts|1| |
+| 1 | [AKARI_Light_Arm](AKARI_Light_Arm.stl) |3D print parts|1| |
+| 2 | [AKARI_Light_Base](AKARI_Light_Base.stl) |3D print parts|1| |
+| 3 | [AKARI_Light_Body](AKARI_Light_Body.stl) |3D print parts|1| |
+| 4 | [AKARI_Light_Head](AKARI_Light_Head.stl) |3D print parts|1| |
 | 5 | AKARI_mini_M5_board | PCB|1| |
 | 6 | RaspberryPi 5 8GB | SBC |1| https://www.marutsu.co.jp/pc/i/46415211/ |
 | 7 | M5Stack BASIC V2.7 | ESP32 develop kit|1| https://www.marutsu.co.jp/pc/i/2733151/ |
