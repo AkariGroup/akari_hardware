@@ -13,7 +13,7 @@
 | 23 | PRT-08535 | 2×5(10P) IDC cable|1| https://akizukidenshi.com/catalog/g/g103796/ |
 | 24 | - | AC Adapter(5V/6.2A) |1| https://www.marutsu.co.jp/pc/i/2775202/ |
 | 25 | - | screw M4-5|6| https://www.amazon.co.jp/dp/B07MZQTTTV |
-| 26 | - | USB Type-C L 0.3m|1| https://www.amazon.co.jp/dp/B097PJLG39 |
+| 26 | - | USB Type-C L 0.5m|1| https://www.amazon.co.jp/dp/B08RMFTGHZ |
 | 27 | - | microSD(128GB) |1|  | https://www.amazon.co.jp/dp/B0CH2X5LBX |
 | 28 | - | microSD(8GB) |1| https://www.amazon.co.jp/dp/B00VQOEWYO |
 | 29 | M5STACK-U001-C | M5 ENV IV Sensor|1| https://www.marutsu.co.jp/pc/i/2764443/ |
